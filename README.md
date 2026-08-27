@@ -43,8 +43,8 @@ The practice specification contains four requirements:
 - Application: SauceDemo / Swag Labs
 - URL: https://www.saucedemo.com/
 - Device: PC
-- Operating System: Windows (version not recorded)
-- Browser: Google Chrome (version not recorded)
+- Operating System: Windows 11
+- Browser: Google Chrome 151.0.7922.174
 - Test account: standard_user
 - Test password: secret_sauce
 
