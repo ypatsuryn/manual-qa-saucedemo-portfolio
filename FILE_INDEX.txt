@@ -1,0 +1,15 @@
+QA Manual Testing Portfolio – File Index
+
+README.md
+01_Requirements/Requirements.md
+02_Test_Plan/Test_Plan.docx
+02_Test_Plan/Test_Plan.md
+03_Test_Cases/Test_Cases.xlsx
+04_Exploratory_Testing/Exploratory_Tests.xlsx
+05_Requirement_Clarifications/Requirement_Clarifications.xlsx
+06_Test_Execution/Test_Execution_Report.xlsx
+07_Bug_Reports/Bug_Report_Template.xlsx
+08_Reports/Test_Summary_Report.docx
+08_Reports/Test_Summary_Report.md
+09_Portfolio/Portfolio_Project_Description.md
+09_Portfolio/CV_Entry_DE.md
